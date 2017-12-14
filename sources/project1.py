@@ -41,7 +41,7 @@ def checkPosition(x):
         return 1
     if x > 500 :
         return 2
-    if x >250 and x < 350 :
+    else :
         return 0
 
 
